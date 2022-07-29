@@ -1,0 +1,11 @@
+img {
+    height: 30px;
+}
+
+img.none{
+    height: auto;
+}
+
+a{
+    text-decoration: none;
+}
